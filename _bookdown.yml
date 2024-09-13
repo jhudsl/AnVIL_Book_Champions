@@ -2,8 +2,7 @@ book_filename: "AnVIL_Book_Champions"
 chapter_name: "Chapter "
 repo: https://github.com/jhudsl/AnVIL_Book_Champions/
 rmd_files: ["index.Rmd",
-            "About.Rmd",
-            "References.Rmd"]
+            "About.Rmd"]
 new_session: yes
 bibliography: [book.bib]
 delete_merged_file: true
