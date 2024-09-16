@@ -7,7 +7,9 @@ callout
 Callout
 colData
 CoV
+CSCCE
 customizations
+Cyberinfrastructure
 dex
 dexamethasone
 dropdown
@@ -23,6 +25,7 @@ limma
 MDS
 mentorship
 NCI
+Nextflow
 NHGRI
 NHGRI's
 Onboarding
@@ -32,10 +35,12 @@ plotMDS
 precompiled
 premade
 preprint
+PREreview
 programmatically
 px
 reproducibility
 Rmd
+rOpenSci
 RStudio
 timeframe
 underserved
