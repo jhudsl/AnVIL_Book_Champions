@@ -1,4 +1,5 @@
 AnVIL
+anvilproject
 BiocManager
 bioinformatics
 BIPOC
@@ -13,6 +14,7 @@ Cyberinfrastructure
 dex
 dexamethasone
 dropdown
+Epigenetics
 GDSCN
 github
 Glimma
@@ -42,8 +44,12 @@ reproducibility
 Rmd
 rOpenSci
 RStudio
+SRA
 timeframe
 underserved
+walkthrough
+walkthroughs
 Workspaces
+workspaces
 Workspace's
 www
