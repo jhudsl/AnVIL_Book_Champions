@@ -1,4 +1,6 @@
 AnVIL
+AnVIL's
+anvilproject
 BiocManager
 bioinformatics
 BIPOC
@@ -13,6 +15,8 @@ Cyberinfrastructure
 dex
 dexamethasone
 dropdown
+Epigenetics
+GCP
 GDSCN
 github
 Glimma
@@ -20,6 +24,7 @@ glimmaMDS
 Gmail
 impactful
 Inclusivity
+ized
 Jupyter
 limma
 MDS
@@ -28,7 +33,9 @@ NCI
 Nextflow
 NHGRI
 NHGRI's
+offboarding
 Onboarding
+onboarding
 OTTR
 ottrpal
 plotMDS
@@ -42,8 +49,13 @@ reproducibility
 Rmd
 rOpenSci
 RStudio
+SRA
 timeframe
 underserved
+walkthrough
+walkthroughs
+WDL
 Workspaces
+workspaces
 Workspace's
 www

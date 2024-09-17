@@ -1,7 +1,13 @@
 book_filename: "AnVIL_Book_Champions"
-chapter_name: "Chapter "
+chapter_name: ""
 repo: https://github.com/jhudsl/AnVIL_Book_Champions/
 rmd_files: ["index.Rmd",
+            "01-what-are-champions.Rmd",
+            "02-become-champion.Rmd",
+            "03-onboard.Rmd",
+            "04-learn-more.Rmd",
+            "05-get-help.Rmd",
+            "06-communicate-feedback.Rmd",
             "About.Rmd"]
 new_session: yes
 bibliography: [book.bib]
