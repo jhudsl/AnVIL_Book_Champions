@@ -3,6 +3,7 @@ chapter_name: "Chapter "
 repo: https://github.com/jhudsl/AnVIL_Book_Champions/
 rmd_files: ["index.Rmd",
             "02-become-champion.Rmd",
+            "03-onboard.Rmd",
             "04-learn-more.Rmd",
             "05-get-help.Rmd",
             "06-communicate-feedback.Rmd",

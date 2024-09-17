@@ -1,0 +1,25 @@
+# Onboard New Users {#onboard}
+
+Getting started on AnVIL can be a bit overwhelming. As an AnVIL Champion, you can help new users by:
+
+## Discussing Team Configuration
+
+There are several decisions that need to be made when setting up a new group on AnVIL. These can be challenging for new users because they are unfamiliar with the vocabulary and unclear on the implications of their decisions. As an AnVIL Champion, you can help by being familiar with the decisions faced by new users and helping people think through how to set up their team.
+
+Here are some points that people will need to consider when setting up their group(s) on AnVIL:
+
+- **Billing Account** -- What Google Billing Account will you use?  Note that a Billing Account is required to store data, conduct analysis, etc.
+- **Cost Monitoring** -- Who will monitor spending?  Will this person be able to monitor daily/weekly?
+- **Team Management** -- Who will oversee the onboarding and offboarding of members?  Will this person track the manifest of workspaces?
+- **Data Access** -- Which datasets will you be generating or analyzing?  Do you already have access to these datasets?
+- **Data Analysis** -- Which tools will you need to do your analysis?  Are these already Docker-ized / WDL-ized?
+
+::: {.reflection}
+If these are new to you, don't worry! The AnVIL team will train you.
+:::
+
+## Directing People to Resources
+
+The [Getting Started on AnVIL](https://jhudatascience.org/AnVIL_Book_Getting_Started) book is a great resource for new users that walks them step-by-step through setting up their group.
+See [Get Help](#help) and [Learn More](#learn) for additional resources
+
