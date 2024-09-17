@@ -4,7 +4,7 @@ An AnVIL Champion serves as a point person within a community (institution, cons
 
 **An AnVIL Champion does not need to be an expert on all things AnVIL!** Primarily, they need to be able to direct people to appropriate resources for finding help, and to serve as a local knowledge store for any community-specific considerations. Examples of ways in which AnVIL Champions can help their community include:
 
-- [Helping new users get started](#onboard): Help new AnVIL users think through setting up their teams, and direct them to AnVIL’s Getting Started resources
+- [Helping new users get started](#onboard): Help new AnVIL users think through setting up their teams, and direct them to AnVIL's Getting Started resources
   - Also provide advice about community-specific considerations, such as explaining an institution’s preferred billing mechanism
 - [Guiding users to resources for learning more](#learn): Help community members find and navigate to the broad collection of resources for learning more about how to use AnVIL for their specific needs
 - [Pointing users towards support channels](#help): Help community members get answers to their specific questions by directing them towards existing channels for receiving help on AnVIL
