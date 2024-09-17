@@ -1,6 +1,6 @@
 # Get Help {#help}
 
-As an AnVIL Champion, your job is not to answer every question about AnVIL. You can help people find answers to their specific questions by directing them towards existing channels for receiving help on AnVIL.
+As an AnVIL Champion, your job is *not* to answer every question about AnVIL. You can help people find answers to their specific questions by directing them towards existing channels for receiving help on AnVIL.
 
 If people have questions, there are a few places they can go to get help:
 

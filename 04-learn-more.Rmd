@@ -1,0 +1,28 @@
+# Learn More {#learn}
+
+There are many resources for people to learn more about how to use AnVIL. As an AnVIL Champion, you can help people find the resources they need for their specific project. This page lists out resources you can direct people to.
+
+## Videos
+
+- [AnVIL Shorts](https://www.youtube.com/playlist?list=PL6aYJ_0zJ4uCABkMngSYjPo_3c-nUUmio): ~2 minute videos providing quick overviews.
+  - These can provide brief introductions to specific activities (e.g. “Sequence Read Archive (SRA) data on AnVIL”), or can discuss how AnVIL can be useful for people in their various roles (e.g. “AnVIL for Lead Investigators”)
+- [AnVIL Demos](https://www.youtube.com/playlist?list=PL6aYJ_0zJ4uC978C57P3TgAAfB38uy58E): 30 min walkthroughs of common tasks on AnVIL
+  - These are recordings of our live AnVIL Demo sessions, in which a member of the AnVIL team walks through a practical demonstration of how to carry out various activities on AnVIL. Some examples include “Single Cell with Bioconductor”, “Epigenetics in AnVIL”, and “How to combine data across workspaces”.
+- An index of our videos can be found [here](https://hutchdatascience.org/AnVIL_Collection/youtube-videos.html). You can also browse the [AnVIL Youtube channel](https://www.youtube.com/@anvilprojectorg).
+
+## Reading
+
+- [Getting Started on AnVIL](https://jhudatascience.org/AnVIL_Book_Getting_Started): Online book walking people through account setup and the basics of how to use AnVIL
+  - Explains how to set up Google Billing Accounts and Terra Billing Projects, create Workspaces on AnVIL, and add team members with appropriate permissions, as well as how to start up tools like RStudio and Galaxy.
+- [Cell Genomics paper](https://www.sciencedirect.com/science/article/pii/S2666979X21001063): The official AnVIL paper
+  - Explains the motivation and purpose for AnVIL, describes the AnVIL ecosystem and interoperability with other platforms, and highlights how AnVIL contributes to improved genomic data sharing efforts.
+- [AnVIL_Collection](https://hutchdatascience.org/AnVIL_Collection/): Website listing additional books and videos
+  - The AnVIL team provides a growing collection of resources to help AnVIL users. The complete list is available at the AnVIL Collection website.
+  
+## Activities
+
+- [anvilproject.org/events](http://anvilproject.org/events): Lists upcoming workshops that users can register for
+  - Includes online events, such as the monthly AnVIL Demos series, as well as in-person events such as workshop sessions held at various conferences.
+- [AnVIL_Demos (self-study)](https://hutchdatascience.org/AnVIL_Demos/): Materials for some of the AnVIL Demos have been made available for self-study.
+  - These provide a hands-on walkthrough that users can access at any time, covering topics such as “Create Workflows with Galaxy”, and “Single Cell with Bioconductor”.
+
