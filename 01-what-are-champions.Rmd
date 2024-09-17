@@ -14,7 +14,7 @@ An AnVIL Champion serves as a point person within a community (institution, cons
 ::: {.reflection}
 Here is what AnVIL Champions' interactions might look like:
 
-Sam is an AnVIL Champion in a research consortium and works closely with an analyst, Alex. Alex messages Sam on Slack to ask about running a workflow on AnVIL. Sam responds by pointing to existing AnVIL tutorials and explains the consortium's billing preferences. Sam isn't an expert on workflows, and directs a few specific questions to the AnVIL team through help.anvilproject.org.
+Sam is an AnVIL Champion in a research consortium and works closely with an analyst, Alex. Alex messages Sam on Slack to ask about running a workflow on AnVIL. Sam responds by pointing to existing AnVIL tutorials and explains the consortium's billing preferences. Sam isn't an expert on workflows, and directs a few specific questions to the AnVIL team through [help.anvilproject.org](https://help.anvilproject.org).
 :::
 
 ## What do you need to be an AnVIL Champion?

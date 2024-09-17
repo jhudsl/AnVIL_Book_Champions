@@ -15,7 +15,7 @@ favicon: assets/AnVIL_style/anvil_favicon.ico
 
 This "booklet" is part of a series of books for the Genomic Data Science Analysis, Visualization, and Informatics Lab-space (AnVIL) of the National Human Genome Research Institute (NHGRI). This short booklet explains what AnVIL Champions are and serves as a resource for AnVIL Champions as they support their community.
 
-## Inspired by {-}
+## Inspired by {- .unlisted}
 
 The AnVIL Champions program is inspired by programs such as:
 

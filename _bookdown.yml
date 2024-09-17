@@ -1,5 +1,5 @@
 book_filename: "AnVIL_Book_Champions"
-chapter_name: "Chapter "
+chapter_name: ""
 repo: https://github.com/jhudsl/AnVIL_Book_Champions/
 rmd_files: ["index.Rmd",
             "01-what-are-champions.Rmd",
