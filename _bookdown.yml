@@ -8,6 +8,7 @@ rmd_files: ["index.Rmd",
             "04-learn-more.Rmd",
             "05-get-help.Rmd",
             "06-communicate-feedback.Rmd",
+            "appendix.Rmd",
             "About.Rmd"]
 new_session: yes
 bibliography: [book.bib]
