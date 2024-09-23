@@ -1,0 +1,6 @@
+# (APPENDIX) Appendix {-}
+
+# Invitation Email
+
+[Google Doc](https://docs.google.com/document/d/1SVLvU960__lM1873XSo2fW2sFD9iuCMQ0BPAFmkvLhg/edit) template for email inviting communities to identify an AnVIL Champion
+
