@@ -3,7 +3,7 @@
 As an AnVIL Champion, your job is *not* to answer every question about AnVIL. You can help people find answers to their specific questions by directing them towards existing channels for receiving help on AnVIL.
 
 ```{r, echo=FALSE, fig.alt="Screenshot of the AnVIL support forum.", out.width = "80%", fig.align = 'center'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/10r0txJTvFyUhEot-tE4bNVHSrm2b_0QAD4oR8PE4jeI/edit#slide=id.g3070af1a185_0_0")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1ZJI4mIqAR7_ircoYGk-8GZnZ3URDRcWpBFP6dbRL-9w/edit#slide=id.g3070af1a185_0_0")
 ```
 
 If people have questions, there are a few places they can go to get help:
