@@ -15,7 +15,7 @@ favicon: assets/AnVIL_style/anvil_favicon.ico
 
 This "booklet" is part of a series of books for the Genomic Data Science Analysis, Visualization, and Informatics Lab-space (AnVIL) of the National Human Genome Research Institute (NHGRI). This short booklet explains what AnVIL Champions are and serves as a resource for AnVIL Champions as they support their community.
 
-```{r, echo=FALSE, fig.alt="Two women sitting together with a laptop."}
+```{r, echo=FALSE, fig.alt="Two women sitting together with a laptop.", out.width = "80%", fig.align = 'center'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/10r0txJTvFyUhEot-tE4bNVHSrm2b_0QAD4oR8PE4jeI/edit#slide=id.g115e284bdc2_0_0")
 ```
 
