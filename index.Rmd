@@ -23,8 +23,9 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1ZJI4mIqAR7_ircoY
 
 The AnVIL Champions program is inspired by programs such as:
 
-- [Center for Scientific Collaboration and Community Engagement (CSCCE)](http://cscce.org/resources/community-champions-programs),
+- [Center for Scientific Collaboration and Community Engagement (CSCCE)](https://cscce.org/resources/community-champions-programs),
 - [Cyberinfrastructure Campus Champions Program](https://campuschampions.cyberinfrastructure.org/)
+- [National Microbiome Data Collaborative Champions Program](https://microbiomedata.org/community/championsprogram/)
 - [Nextflow Ambassadors](https://www.nextflow.io/ambassadors.html)
 - [PREreview Champions Program](https://content.prereview.org/announcing-the-prereview-champions-program/)
 - [rOpenSci Champions Program](https://ropensci.org/champions/)
