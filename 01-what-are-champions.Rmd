@@ -2,7 +2,7 @@
 
 An AnVIL Champion serves as a point person within a community (institution, consortium, research group, geographic region, etc.) who can be a local resource for people interested in using AnVIL. AnVIL Champions help people in their community to understand the benefits of AnVIL, get started using the platform, and find appropriate resources for learning more. They also help AnVIL better meet the needs of their community by communicating feedback to the AnVIL team.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PptqHHXke54?si=tnnM0Z2JGSOgEJRD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/PptqHHXke54?si=tnnM0Z2JGSOgEJRD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **An AnVIL Champion does not need to be an expert on all things AnVIL!** Primarily, they need to be able to direct people to appropriate resources for finding help, and to serve as a local knowledge store for any community-specific considerations. Examples of ways in which AnVIL Champions can help their community include:
 
