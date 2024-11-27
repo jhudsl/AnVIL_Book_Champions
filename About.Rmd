@@ -20,24 +20,24 @@ These credits are based on our [course contributors table guidelines](https://gi
 |Content Consultants||
 |Acknowledgments||
 |**Production**||
-|Content Publisher(s)| Helped with publishing platform|
-|Content Publishing Reviewer(s)| Reviewed overall content and aesthetics on publishing platform|
+|Content Publisher(s)||
+|Content Publishing Reviewer(s)||
 |**Technical**||
-|Course Publishing Engineer(s)| Helped with the code for the technical aspects related to the specific course generation|
+|Course Publishing Engineer(s)||
 |Template Publishing Engineers|[Candace Savonen], [Carrie Wright]|
 |Publishing Maintenance Engineer|[Candace Savonen]|
 |Technical Publishing Stylists|[Carrie Wright], [Candace Savonen]|
 |Package Developers ([ottrpal])|[John Muschelli], [Candace Savonen], [Carrie Wright]|
 |**Art and Design**||
-|Illustrator(s)| Created graphics for the course|
-|Figure Artist(s)| Created figures/plots for course|
-|Videographer(s)| Filmed videos|
-|Videography Editor(s)| Edited film|
-|Audiographer(s)| Recorded audio|
-|Audiography Editor(s)| Edited audio recordings|
+|Illustrator(s)||
+|Figure Artist(s)||
+|Videographer(s)||
+|Videography Editor(s)||
+|Audiographer(s)||
+|Audiography Editor(s)||
 |**Funding**||
-|Funder(s)| Institution/individual who funded course including grant number|
-|Funding Staff| Staff members who help with funding|
+|Funder(s)||
+|Funding Staff||
 
 &nbsp;
 
