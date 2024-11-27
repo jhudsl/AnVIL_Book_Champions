@@ -31,3 +31,7 @@ Sam is an AnVIL Champion in a research consortium and works closely with an anal
 - Streamlined communication with support and developers
 - Help your community
 - CV / badge e.g. "Served as AnVIL Champion for Consortium X May 2024 - present"
+
+## Current Champions
+
+AnVIL Champions are listed on the [AnVIL portal page](https://anvilproject.org/anvil-champions).

@@ -1,6 +1,6 @@
 ---
 title: "AnVIL Champions"
-date: "October 31, 2024"
+date: "November 27, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib

@@ -1,6 +1,7 @@
 what-are-anvil-champions
 what-do-you-need-to-be-an-anvil-champion
 why-be-an-anvil-champion
+current-champions
 become-champion
 onboard
 discussing-team-configuration
