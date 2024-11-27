@@ -11,33 +11,33 @@ These credits are based on our [course contributors table guidelines](https://gi
 |Credits|Names|
 |-------|-----|
 |**Pedagogy**||
-|Lead Content Instructor(s)|[FirstName LastName]|
-|Lecturer(s) (include chapter name/link in parentheses if only for specific chapters) - make new line if more than one chapter involved| Delivered the course in some way - video or audio|
-|Content Author(s) (include chapter name/link in parentheses if only for specific chapters) - make new line if more than one chapter involved | If any other authors besides lead instructor| 
-|Content Contributor(s) (include section name/link in parentheses) - make new line if more than one section involved|  Wrote less than a chapter <br><br> AnVIL instructions: [Katherine Cox], [Ava Hoffman], [Elizabeth Humphries]|
-|Content Editor(s)/Reviewer(s) | Checked your content|
-|Content Director(s) | Helped guide the content direction|
-|Content Consultants (include chapter name/link in parentheses or word "General") - make new line if more than one chapter involved | Gave high level advice on content <br><br> AnVIL instructions: [Allie Cliffe]|
-|Acknowledgments| Gave small assistance to content but not to the level of consulting |
+|Lead Content Instructor(s)|[Katherine Cox]|
+|Lecturer(s)||
+|Content Author(s)|| 
+|Content Contributor(s)|[Ava Hoffman]|
+|Content Editor(s)/Reviewer(s)|Frederick Tan, Javier Carpinteyro-Ponce, [Ava Hoffman], [Elizabeth Humphries], Natalie Kucher|
+|Content Director(s)|Frederick Tan|
+|Content Consultants||
+|Acknowledgments||
 |**Production**||
-|Content Publisher(s)| Helped with publishing platform|
-|Content Publishing Reviewer(s)| Reviewed overall content and aesthetics on publishing platform|
+|Content Publisher(s)||
+|Content Publishing Reviewer(s)||
 |**Technical**||
-|Course Publishing Engineer(s)| Helped with the code for the technical aspects related to the specific course generation|
+|Course Publishing Engineer(s)||
 |Template Publishing Engineers|[Candace Savonen], [Carrie Wright]|
 |Publishing Maintenance Engineer|[Candace Savonen]|
 |Technical Publishing Stylists|[Carrie Wright], [Candace Savonen]|
 |Package Developers ([ottrpal])|[John Muschelli], [Candace Savonen], [Carrie Wright]|
 |**Art and Design**||
-|Illustrator(s)| Created graphics for the course|
-|Figure Artist(s)| Created figures/plots for course|
-|Videographer(s)| Filmed videos|
-|Videography Editor(s)| Edited film|
-|Audiographer(s)| Recorded audio|
-|Audiography Editor(s)| Edited audio recordings|
+|Illustrator(s)||
+|Figure Artist(s)||
+|Videographer(s)||
+|Videography Editor(s)||
+|Audiographer(s)||
+|Audiography Editor(s)||
 |**Funding**||
-|Funder(s)| Institution/individual who funded course including grant number|
-|Funding Staff| Staff members who help with funding|
+|Funder(s)||
+|Funding Staff||
 
 &nbsp;
 
@@ -132,3 +132,4 @@ For JHU courses, You will need to add Ira as a credit:
 ...
 [Ira Gooding]: https://publichealth.jhu.edu/faculty/4130/ira-gooding
 -->
+
